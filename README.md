@@ -56,7 +56,8 @@ This project contains an interactive **Sales Dashboard** built using **Tableau**
 ## ✍️ Author
 
 **Yash Kumar Shaw** 
-*Special Thanks - @DataWithBaraa*
+
+*Special Thanks* - @DataWithBaraa
 
 [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
 
